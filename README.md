@@ -36,7 +36,7 @@ landingpage/
 
 ## 🌐 Vista previa
 
-![Vista previa](https://github.com/patriciovergara/landingpage/blob/main/assets/img/Landing.png?raw=true)
+![Vista previa](https://github.com/patriciovergara/patriciovergara.github.io/blob/main/assets/img/Landing.png?raw=true)
 
 ---
 
