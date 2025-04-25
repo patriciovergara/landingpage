@@ -1,29 +1,16 @@
-
-<<<<<<< HEAD
 # üõçÔ∏è Landing Page - TechStore
-=======
-# ÌªçÔ∏è Landing Page - TechStore
->>>>>>> db2d11a (feat: Se agrega README)
 
 Este repositorio contiene una **Landing Page est√°tica** desarrollada como parte de mi portafolio en el Bootcamp Full Stack JS de [Desaf√≠o Latam](https://desafiolatam.com/). El objetivo fue crear una p√°gina promocional clara, responsiva y moderna utilizando HTML y CSS.
 
 ---
 
-<<<<<<< HEAD
-## üßæ Descripci√≥n
-=======
-## Ì∑æ Descripci√≥n
->>>>>>> db2d11a (feat: Se agrega README)
+## üìÑ Descripci√≥n
 
 Esta landing page representa una tienda ficticia llamada **TechStore**, orientada a promocionar productos tecnol√≥gicos como smartphones, accesorios, y computadoras port√°tiles. El dise√±o est√° enfocado en la experiencia de usuario, claridad visual y compatibilidad responsive.
 
 ---
 
-<<<<<<< HEAD
 ## üìÅ Estructura del proyecto
-=======
-## Ì≥Å Estructura del proyecto
->>>>>>> db2d11a (feat: Se agrega README)
 
 ```
 landingpage/
@@ -37,66 +24,56 @@ landingpage/
 
 ---
 
-<<<<<<< HEAD
 ## üñ•Ô∏è Tecnolog√≠as utilizadas
-=======
-## Ì∂•Ô∏è Tecnolog√≠as utilizadas
->>>>>>> db2d11a (feat: Se agrega README)
 
 - HTML5
 - CSS3
 - Dise√±o responsivo con Flexbox
-- Fuentes de Google Fonts
-- √çconos de Font Awesome
+- Google Fonts
+- Font Awesome
 
 ---
 
-<<<<<<< HEAD
 ## üåê Vista previa
-
-![Vista previa](https://github.com/patriciovergara/landingpage/blob/main/assets/img/preview.png?raw=true)
-
----
-
-## üìå Caracter√≠sticas
-=======
-## Ìºê Vista previa
 
 ![Vista previa](https://github.com/patriciovergara/landingpage/blob/main/assets/img/Landing.png?raw=true)
 
 ---
 
-## Ì≥å Caracter√≠sticas
->>>>>>> db2d11a (feat: Se agrega README)
+## üìå Caracter√≠sticas
 
-- Dise√±o responsivo compatible con m√≥viles y desktop
+- Dise√±o responsivo compatible con m√≥viles y escritorio
 - Secciones organizadas para destacar productos
-- Llamado a la acci√≥n (CTA) visible y claro
+- Llamado a la acci√≥n (CTA) visible
 - Est√©tica limpia y moderna
 
 ---
 
-<<<<<<< HEAD
 ## üöÄ C√≥mo ver el sitio
-=======
-## Ì∫Ä C√≥mo ver el sitio
->>>>>>> db2d11a (feat: Se agrega README)
 
-Puedes visualizarlo directamente a trav√©s de GitHub Pages (si est√° habilitado) o abriendo el archivo `index.html` localmente en tu navegador.
+Puedes visualizarlo directamente desde GitHub Pages (si est√° habilitado) o abriendo el archivo `index.html` en tu navegador local.
 
 ---
 
-<<<<<<< HEAD
 ## üì¨ Contacto
 
-- **Email:** patriciovergara.dev@gmail.com
-=======
-## Ì≥¨ Contacto
-
 - **Email:** peduardovm@gmail.com
->>>>>>> db2d11a (feat: Se agrega README)
 - **LinkedIn:** [linkedin.com/in/patricio-vergara-11230b193](https://www.linkedin.com/in/patricio-vergara-11230b193)
 
 ---
 
-> Proyecto realizado como parte del desaf√≠o de desarrollo web del curso Full Stack JS.
+> Proyecto desarrollado como parte del desaf√≠o de desarrollo web en el curso Full Stack JS
+
+
+
+
+
+
+
+
+
+
+
+
+
+
